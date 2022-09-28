@@ -1,0 +1,43 @@
+html{
+    background:#444;
+    font-family: sans-serif;
+}
+
+.card{
+    background: #fff;
+    width: 500px;
+    display: flex;
+    border-radius: 5px 5px 25px 5px;
+}
+
+.left{
+padding: 20px;
+}
+
+.right{
+    padding:20px;
+    padding-top:28px;
+}
+
+.title{
+    font-weight: bolder;
+    font-size: 1.5rem;
+}
+
+.desc{
+    margin-top: 10px;
+    line-height: 22px;
+    font-size: 0.8rem;
+}
+
+.button{
+    margin-top: 10px;
+    display:flex;
+    align-items: center;
+    font-size: 12px;
+    font-weight: bolder;
+}
+
+.button img{
+    width:30px;
+}
